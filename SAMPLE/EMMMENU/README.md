@@ -10,7 +10,7 @@ SDカードに保存されたEMM DUMPファイルはMZTファイルのヘッダ�
 
 ## 利用可能なエミュレーター
 
-### TAKEDAさんのeX1, eX1twin, eX1turbo, eX1turboZ
+### TAKEDAさんのEmuZ-700、EmuZ-1500
 
 https://takeda-toshiya.my.coocan.jp/
 
