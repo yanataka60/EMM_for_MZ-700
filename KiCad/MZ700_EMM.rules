@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 6881)
+    (start_pass_no 11949)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -85,7 +85,8 @@
     "Net-(U12-Pad12)" "Net-(U12-Pad11)" "Net-(U12-Pad7)" "Net-(U12-Pad8)" "Net-(U12-Pad6)" "Net-(U12-Pad5)" "Net-(U12-Pad25)" "Net-(U12-Pad23)"
     "Net-(U12-Pad27)" "Net-(U12-Pad26)" "Net-(U12-Pad28)" "Net-(U12-Pad4)" "Net-(U12-Pad3)" "Net-(U12-Pad31)" "Net-(U12-Pad30)" "Net-(U12-Pad2)"
     "Net-(U12-Pad1)" "Net-(U12-Pad17)" "Net-(U12-Pad18)" "Net-(U12-Pad19)" "Net-(U12-Pad20)" "Net-(U12-Pad21)" "Net-(U12-Pad13)" "Net-(U12-Pad14)"
-    "Net-(U12-Pad15)" "Net-(R2-Pad2)" "Net-(U15-Pad8)" "Net-(U15-Pad6)" "Net-(U15-Pad4)" "Net-(U15-Pad2)"
+    "Net-(U12-Pad15)" "Net-(U15-Pad8)" "Net-(U15-Pad6)" "Net-(U15-Pad4)" "Net-(U15-Pad2)" "Net-(D3-Pad2)" "Net-(D3-Pad1)" "Net-(D4-Pad1)"
+    "Net-(D4-Pad2)" "Net-(U10-Pad4)" "Net-(U15-Pad11)" "Net-(R3-Pad2)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
