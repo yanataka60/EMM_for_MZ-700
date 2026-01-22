@@ -124,7 +124,7 @@ https://github.com/yanataka60/SOPtoDIP32
 　ただし、パターンカット個所がU13 74LS11、U15 74LS04のICソケット内側にもあるのでEMMボード組み立て済みの場合にはICソケットを一旦取り外す必要があります。
 
 ### EMM基板パターンカット個所
-　U13 74LS11の4Pin、5Pin、6PinをGNDから切り離します。
+　U13 74LS11の9Pin、10Pin、11PinをGNDから切り離します。
 
 　U15 74LS04の11Pin、13PinをGNDから切り離します。
 
