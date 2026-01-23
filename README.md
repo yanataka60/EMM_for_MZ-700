@@ -118,6 +118,17 @@ https://github.com/yanataka60/SOPtoDIP32
 
 　使い方については、フォルダ内のREADME.mdを参照してください。
 
+## EMMからの起動
+　せっかくバッテリーバックアップに対応させたのでMZ-700_SD、MZ-1500_SDからコマンド「FDE0」～「FDE3」を使うことで「EMM0」～「EMM3」のHuBASICを起動できるようにしてみました。
+
+　MZ-700_SD、MZ-1500_SDのROMをEMM対応に書き換える必要があります。
+
+　MZ-700_SD、MZ-1500_SDの「EMMボード for MZ-700からの起動」を参照してください。
+
+　https://github.com/yanataka60/MZ-700_SD?tab=readme-ov-file#emm%E3%83%9C%E3%83%BC%E3%83%89-for-mz-700%E3%81%8B%E3%82%89%E3%81%AE%E8%B5%B7%E5%8B%95
+
+　https://github.com/yanataka60/MZ-1500_SD?tab=readme-ov-file#emm%E3%83%9C%E3%83%BC%E3%83%89-for-mz-700%E3%81%8B%E3%82%89%E3%81%AE%E8%B5%B7%E5%8B%95
+
 ## 初期基板をバッテリーバックアップ対応とするには
 　以下に示すパターンカット、ジャンパ、追加部品(抵抗10k×1本、ダイオード1S4×1本)で改造することで初期基板をバッテリーバックアップ対応とすることが可能です。
 
