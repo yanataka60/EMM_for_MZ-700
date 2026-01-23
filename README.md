@@ -76,7 +76,7 @@ https://github.com/yanataka60/SOPtoDIP32
 ### EMM1
 ジャンパピンA3を0、A2を1の位置にします。
 
-![EMM0](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM1.JPG)
+![EMM1](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM1.JPG)
 
 |アドレス|R/W|説明|
 | ------------ | ------------ | ------------ |
@@ -89,7 +89,7 @@ https://github.com/yanataka60/SOPtoDIP32
 ### EMM2
 ジャンパピンA3を1、A2を0の位置にします。
 
-![EMM0](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM2.JPG)
+![EMM2](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM2.JPG)
 
 |アドレス|R/W|説明|
 | ------------ | ------------ | ------------ |
@@ -102,7 +102,7 @@ https://github.com/yanataka60/SOPtoDIP32
 ### EMM3
 ジャンパピンA3、A2とも1の位置にします。
 
-![EMM0](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM3.JPG)
+![EMM3](https://github.com/yanataka60/EMM_for_MZ-700/blob/main/JPEG/EMM3.JPG)
 
 |アドレス|R/W|説明|
 | ------------ | ------------ | ------------ |
